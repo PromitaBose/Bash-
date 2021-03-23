@@ -1,1 +1,1 @@
-# Bash-
+Housekeeping scripts
